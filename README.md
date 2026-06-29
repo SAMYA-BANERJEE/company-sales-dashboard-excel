@@ -1,9 +1,11 @@
+📊 Company Sales Dashboard Using Microsoft Excel
 Project Overview:
 This project demonstrates an interactive Sales Dashboard developed using Microsoft Excel. The dashboard transforms raw sales data into meaningful business insights using Pivot Tables, Pivot Charts, Slicers, and Timelines.
 It enables users to analyze sales performance across countries, product categories, sales representatives, and time periods through an interactive reporting interface.
 
 Dashboard Preview:
-https://github.com/SAMYA-BANERJEE/company-sales-dashboard-excel/blob/main/dashboard-preview.png
+<img width="1920" height="855" alt="dashboard-preview" src="https://github.com/user-attachments/assets/1bc35798-4d6f-48fc-9a2b-bdd6c0cc744d" />
+
 
 Features:
 Interactive Dashboard
